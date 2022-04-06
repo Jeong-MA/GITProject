@@ -1,20 +1,21 @@
-Look at you 넌 못 감당해 날
-Ya took off hook
-기분은 Coke like brrr
-Look at my toe 나의 Ex 이름 Tattoo
-I got to drink up now 네가 싫다 해도 좋아
-
-Why are you cranky, boy?
-뭘 그리 찡그려 너
-Do you want a blond barbie doll?
-It’s not here, I’m not a doll
-
-미친 연이라 말해 What’s the loss to me ya
-사정없이 까보라고 You’ll lose to me ya
-사랑 그깟 거 따위 내 몸에 상처 하나도 어림없지
-너의 썩은 내 나는 향수나 뿌릴 바엔
-
-Ye I’m a Tomboy (Umm ah umm)
-Ye I’ll be the Tomboy (Umm ah)
-This is my attitude
-Ye I’ll be the Tomboy
+계정 : aaa	 2022-03-30 13:43:20 	 su root
+	 2022-03-30 13:42:51 	 sudo su
+	 2022-03-30 13:42:34 	 cd aaa_home/
+	 2022-03-30 13:42:26 	 ls
+	 2022-03-30 13:42:25 	 mkdir aaa_home
+	 2022-03-30 13:42:12 	 ls
+	 2022-03-30 13:42:11 	 cd ~
+	 2022-03-30 13:42:01 	 pwd
+	 2022-03-30 13:41:54 	 ls
+	 2022-03-30 13:48:40 	 su root
+	 2022-03-30 13:48:34 	 reboot
+	 2022-03-30 13:48:17 	 cd ..
+	 2022-03-30 13:48:14 	 cd ~
+	 2022-03-30 13:47:07 	 history 100
+계정 : bbb	 2022-03-30 14:04:31 	 su root
+	 2022-03-30 14:04:24 	 ls
+	 2022-03-30 14:04:23 	 cd ~
+	 2022-03-30 14:11:09 	 su root
+	 2022-03-30 14:12:19 	 su root
+	 2022-03-30 14:12:14 	 ls
+계정 : ccc	 기록된 이력이 없음
